@@ -1,0 +1,15 @@
+12
+FitBand: 789
+laptop: 48939
+VIVO Band: 9990
+Cult Pass: 2799
+Macbook Pro: 300202
+Digital Camera: 11101
+Alexa: 9999
+Siri: 8989
+Sandwich Toaster: 2195
+Microwave Oven: 9890
+Scale: 500
+wrist Watch: 2999
+3
+3 5 9

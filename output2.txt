@@ -1,0 +1,38 @@
+no of employees: 3
+
+distribution:-
+Microwave Oven: 9890
+VIVO Band: 9990
+Alexa: 9999
+
+difference: 109
+
+
+no of employees: 5
+
+distribution:-
+Siri: 8989
+Microwave Oven: 9890
+VIVO Band: 9990
+Alexa: 9999
+Digital Camera: 11101
+
+difference: 2112
+
+
+no of employees: 9
+
+distribution:-
+Scale: 500
+FitBand: 789
+Sandwich Toaster: 2195
+Cult Pass: 2799
+wrist Watch: 2999
+Siri: 8989
+Microwave Oven: 9890
+VIVO Band: 9990
+Alexa: 9999
+
+difference: 9499
+
+

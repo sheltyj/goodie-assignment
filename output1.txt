@@ -1,0 +1,33 @@
+no of employees: 4
+
+distribution:-
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+difference: 3121
+
+
+no of employees: 2
+
+distribution:-
+Microwave Oven: 9800
+Alexa: 9999
+
+difference: 199
+
+
+no of employees: 6
+
+distribution:-
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+
+difference: 7804
+
+

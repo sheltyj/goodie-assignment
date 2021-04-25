@@ -1,0 +1,30 @@
+no of employees: 2
+
+distribution:-
+Microwave Oven: 9800
+Alexa: 9999
+
+difference: 199
+
+
+no of employees: 3
+
+distribution:-
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+difference: 1301
+
+
+no of employees: 4
+
+distribution:-
+Scale: 4999
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+difference: 6102
+
+

@@ -1,0 +1,8 @@
+5
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+3
+2 3 4
